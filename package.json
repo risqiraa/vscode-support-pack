@@ -2,8 +2,9 @@
   "name": "vscode-support-pack",
   "displayName": "VSCODE SUPPORT PACK",
   "description": "",
-  "repository": ,
-  "icon": "",
+  "repository": "https://github.com/risqiraa/vscode-support-pack",
+  "icon": "extension/icon.jpg",
+  "publisher": "risqira",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.72.0"
